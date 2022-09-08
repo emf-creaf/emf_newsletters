@@ -2,13 +2,15 @@
  NEWSLETTER content for EMF
 -------------------------------
 
-# EMF support
+# Basic support activity
 
-# EMF participation in projects
+# Participation in projects
 
-# Internationalization activity
+# Network building
 
-# Training
+# Training & mentoring
+
+# Model development
 
 # New software & updates
 
