@@ -1,23 +1,49 @@
--------------------------------
- NEWSLETTER content for EMF
--------------------------------
+# NEWSLETTER content for EMF
 
-# Basic support activity
 
-# Participation in projects
+## Basic support activity
 
-# Network building
+  - (VGG) Help to Rubén (Soils) to perform BLAST and genetics analyses with R
+  - (VGG) Help to Estela Romero to produce publication-ready plots with R (manuscript in preparation)
+  - (VGG) Help to Pablo (EcoPhys) to create an R package with modelization global maps
 
-# Training & mentoring
+## Participation in projects
 
-# Model development
+  - (EMF) MODOSIN project creating the app PlotDrought for the LFC
 
-# New software & updates
+## Network building
 
-# New datasets in the EMF catalog
+## Training & mentoring
 
-# New models in the EMF catalog
+  - (RMH & VGG) R Training course for CREAF
+  - (EMF) Technician mentoring (Oleguer) in creation of web apps with R (MODOSIN project)
 
-# Publications using EMF tools
+## Model development
 
-# Publications from other collaborations
+## New software & updates
+
+  - (VGG) `meteospain` (new)
+  - (VGG) `sapfluxnetr` (updates)
+  - (VGG) `meteoland` (update and maintenance, IN PROGRESS)
+  - (VGG) LFC web apps (maintenance)
+
+## New datasets in the EMF catalog
+
+## New models in the EMF catalog
+
+## Publications using EMF tools
+
+## Publications from other collaborations
+
+  - (VGG) Vapour pressure deficit is the main driver of tree canopy conductance
+  across biomes. 2022 (Flo et al.) DOI:
+  https://doi.org/10.1016/j.agrformet.2022.109029
+  - (VGG) Uncertainty of biomass stocks in Spanish forests: a comprehensive
+  comparison of allometric equations. 2022 (Ameztegui et al.) DOI:
+  https://doi.org/10.1186/s40663-021-00308-w
+  - (VGG) Global transpiration data from sap flow measurements: the SAPFLUXNET
+  database. 2021 (Poyatos et al.) DOI: https://doi.org/10.5194/essd-13-2607-2021
+  - (VGG) GLOVOCS-Master compound assignment guide for proton transfer reaction
+  mass spectrometry users (Yáñez-Serrano et al.) DOI:
+  https://doi.org/10.1016/j.atmosenv.2020.117929
+  
