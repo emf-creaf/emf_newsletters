@@ -37,6 +37,7 @@
   - (VGG) `sapfluxnetr` (updates)
   - (VGG) `meteoland` (update and maintenance, IN PROGRESS)
   - (VGG) LFC web apps (maintenance)
+  - (MCA) `medfate` (updates following model development)
 
 ## New datasets in the EMF catalog
 
