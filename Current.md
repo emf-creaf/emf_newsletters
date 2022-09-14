@@ -7,18 +7,26 @@
   - (VGG) Help to Estela Romero to produce publication-ready plots with R (manuscript in preparation)
   - (VGG) Help to Pablo (EcoPhys) to create an R package with modelization global maps
 
-## Participation in projects
+## Participation in research projects
 
-  - (EMF) MODOSIN project creating the app PlotDrought for the LFC
+  - (EMF) MODOSIN (PPNN - IP: Enric Batllori, UB-CREAF) and MATOSEG (Fundación Biodiversidad - IP: Pere Casals, CTFC) projects creating the new app PlotDrought for the LFC
+  - (MCA) RESONATE (H2020 - Researchers: Jordi Martínez, Francisco Lloret, Josep Maria Espelta) project by assisting in the use of MEDFATE for the evaluation of ecosystem services.
+
+## Participation in transfer projects
+
+  - (RMH & MCA) FORESFUTURE (Contracte programa - Jordi Vayreda, Mireia Banqué) for the projection of forest dynamics over Catalonia during the XXIst century and the evaluation of ecosystem services.
 
 ## Network building
 
 ## Training & mentoring
 
   - (RMH & VGG) R Training course for CREAF
-  - (EMF) Technician mentoring (Oleguer) in creation of web apps with R (MODOSIN project)
+  - (MCA) Process-based forest modelling with MEDFATE
+  - (EMF) Technician mentoring (Oleguer Amorós) in creation of web apps with R (MODOSIN and MATOSEG projects)
 
 ## Model development
+
+  - 
 
 ## New software & updates
 
