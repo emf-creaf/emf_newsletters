@@ -18,6 +18,7 @@
 
 ## Network building
 
+
 ## Training & mentoring
 
   - (RMH & VGG) R Training course for CREAF
@@ -26,7 +27,9 @@
 
 ## Model development
 
-  - 
+  - Development of the growth, mortality and recruitment models for MEDFATE.
+  - Parameter estimation of MEDFATE models for woody taxa of the Spanish National Forest Inventory (SNFI) using trait databases and calibration exercises.
+  - Evaluation of the performance of MEDFATE for the prediction of forest dynamics in Catalonia, between SNFI3 and SNFI4.
 
 ## New software & updates
 
