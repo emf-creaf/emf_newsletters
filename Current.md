@@ -50,6 +50,8 @@
   - NABBS [https://www.pwrc.usgs.gov/bbs/index.cfm]: Cooperative effort between the U.S. Geological Survey's Patuxent Wildlife Research Center and Environment Canada's Canadian Wildlife Service to monitor the status and trends of North American bird populations. 
   - RCP database [https://tntcat.iiasa.ac.at/RcpDb/]: The RCP database aims at documenting the emissions, concentrations, and land-cover change projections of the so-called "Representative Concentration Pathways".
   - PaleoClim [http://www.paleoclim.org/]: High-resolution paleoclimate data for use in biological modeling and GIS.
+  - PaleoFire [https://www.paleofire.org/index.php]: The Global Paleofire Database (GPD) provides the scientific community with a global paleofire dataset for research and archiving sedimentary records of fire.
+
 
 ## New models in the EMF catalog
 
