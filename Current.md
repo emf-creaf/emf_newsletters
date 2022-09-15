@@ -6,6 +6,7 @@
   - (VGG) Help to Rubén (Soils) to perform BLAST and genetics analyses with R
   - (VGG) Help to Estela Romero to produce publication-ready plots with R (manuscript in preparation)
   - (VGG) Help to Pablo (EcoPhys) to create an R package with modelization global maps
+  - (VGG) Help to Anna Ávila to publish datasets from hydrological catchments
 
 ## Participation in research projects
 
