@@ -7,11 +7,21 @@
   - (VGG) Help to Estela Romero to produce publication-ready plots with R (manuscript in preparation)
   - (VGG) Help to Pablo (EcoPhys) to create an R package with modelization global maps
   - (VGG) Help to Anna Ávila to publish datasets from hydrological catchments
+  - (RMH) Statistical support to J. Bookwalter for the modelling of biodiversity data
+  - (RMH) Modelling of P. sylvestris dynamics with mortality events, J. Margalef and F. Lloret
+  - (RMH) Statistical support to S. Marañón and X. Luoqian, Dirichlet regression of soil data
+  - (RMH) Statistical support to M. Móstiga, contingency tables of deforestation data from Perú.
+  - (RMH) Modelling of erosion data from Massaciuccoli lake, PHUSICOS project
+  - (RMH) Statistical help, L. Fuzessy and D. Sol
+  - (RMH) Modelling of bee survival curves, J. Bosch and F. Sgolastra
+  - (RMH) Statistical help, B. Claramunt, A. Zango and A. Jolivet
+  - (RMH) Statistical support, C stock, I. Funes and others.
 
 ## Participation in research projects
 
   - (EMF) MODOSIN (PPNN - IP: Enric Batllori, UB-CREAF) and MATOSEG (Fundación Biodiversidad - IP: Pere Casals, CTFC) projects creating the new app PlotDrought for the LFC
   - (MCA) RESONATE (H2020 - Researchers: Jordi Martínez, Francisco Lloret, Josep Maria Espelta) project by assisting in the use of MEDFATE for the evaluation of ecosystem services.
+  - (RMH) PHUSICOS (H2020 - Researchers (WP4): Pilar Andrés, Enrique Doblas) project to show the effectiveness of nature-based solutions to reduce the risk of extreme weather events in rural mountain landscapes.
 
 ## Participation in transfer projects
 
@@ -25,12 +35,14 @@
   - (RMH & VGG) R Training course for CREAF
   - (MCA) Process-based forest modelling with MEDFATE
   - (EMF) Technician mentoring (Oleguer Amorós) in creation of web apps with R (MODOSIN and MATOSEG projects)
-
+  - (RMH) Defenses of two co-supervised PhD theses: Joan Maspons (CREAF) and Saeed Harati (UdeM)
+  
 ## Model development
 
   - Development of the growth, mortality and recruitment models for MEDFATE.
   - Parameter estimation of MEDFATE models for woody taxa of the Spanish National Forest Inventory (SNFI) using trait databases and calibration exercises.
   - Evaluation of the performance of MEDFATE for the prediction of forest dynamics in Catalonia, between SNFI3 and SNFI4.
+    - Development of an Integral Projection Model to project forest dynamics in Catalonia for the Oficina Catala de Canvi Climatic.
 
 ## New software & updates
 
@@ -39,7 +51,9 @@
   - (VGG) `meteoland` (update and maintenance, IN PROGRESS)
   - (VGG) LFC web apps (maintenance)
   - (MCA) `medfate` (updates following model development)
-
+  - (RMH) `Rtigre` (new, local)
+  - (RMH) `Rvfsmod` (new, local)
+  
 ## New datasets in the EMF catalog
 
   - HydroSHEDS [https://www.hydrosheds.org]: HydroBASINS (watershed boundaries and sub-basin delineations), HydroRIVERS (vectorized line network of all global rivers that have a catchment area of at least 10 km2 or an average river flow of 0.1 cubic meters per second, or both), HydroLAKES (shoreline polygons of all global lakes with a surface area of at least 10 ha).
@@ -82,4 +96,5 @@
   - (VGG) GLOVOCS-Master compound assignment guide for proton transfer reaction
   mass spectrometry users (Yáñez-Serrano et al.) DOI:
   https://doi.org/10.1016/j.atmosenv.2020.117929
+    - (RMH) Carbon stocks and changes in biomass of Mediterranean woody crops over a six-year period in NE. Spain (2022) (Funes et al.) DOI: https://doi.org/10.1007/s13593-022-00827-y
   
