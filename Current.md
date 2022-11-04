@@ -85,7 +85,7 @@
   - McDowell et al. (2022). Mechanisms of woody-plant mortality under rising drought, CO2 and vapour pressure deficit. (https://doi.org/10.1038/s43017-022-00272-1).
   - Morera et al. (2022). Historical and future spatially-explicit climate change impacts on mycorrhizal and saprotrophic macrofungal productivity in Mediterranean pine forests (https://doi.org/10.1016/j.agrformet.2022.108918).
   - Alonso et al. (2022). Bacterioplankton composition as an indicator of environmental status: proof of principle using indicator value analysis of estuarine communities (https://doi.org/10.3354/ame01979).
-  - Vilà-Vilardell L, De Cáceres M, Piqué M, Casals P. (2022). Prescribed fire after thinning increased resistance of sub-Mediterranean pine forests to drought events and wildfires. Forest Ecology and Management.
+  - Vilà-Vilardell L, De Cáceres M, Piqué M, Casals P. (2022). Prescribed fire after thinning increased resistance of sub-Mediterranean pine forests to drought events and wildfires. Forest Ecology and Management. (Accepted)
   
 ## Publications from other collaborations
 
@@ -97,5 +97,6 @@
   - (VGG) GLOVOCS-Master compound assignment guide for proton transfer reaction
   mass spectrometry users (Yáñez-Serrano et al.) DOI:
   https://doi.org/10.1016/j.atmosenv.2020.117929
-    - (RMH) Carbon stocks and changes in biomass of Mediterranean woody crops over a six-year period in NE. Spain (2022) (Funes et al.) DOI: https://doi.org/10.1007/s13593-022-00827-y
+   - (RMH) Carbon stocks and changes in biomass of Mediterranean woody crops over a six-year period in NE. Spain (2022) (Funes et al.) DOI: https://doi.org/10.1007/s13593-022-00827-y
+   - (MCA) Plant hydraulic modelling of leaf and canopy fuel moisture content reveals increasing vulnerability of a Mediterranean forest to wildfires under extreme drought (Ruffault et al.) New Phytologist (accepted)
   
