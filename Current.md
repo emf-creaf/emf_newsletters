@@ -2,10 +2,10 @@
 
 ### Basic support activity
 
-  + **Programming support**:
+  + **Programming support**: O. Boet
   + **Data management support**: 
-  + **Statistical support**: 
-  + **Modelling support**: J. Dávila
+  + **Statistical support**: J. De la Casa
+  + **Modelling support**: 
 
 ### Participation in research projects
 
@@ -17,18 +17,19 @@
   + OECC
 
 ### Network building
-
+  + Workshop on process-based modelling (parameterization) with researchers from INRAE, under the umbrella of FORGENIUS EU project. 6-9th March
 
 ### Training & mentoring
 
 **Courses taught**:
 
 **Mentoring**:
-
+  + J. Dávila (Ph. Student)
 
 ### Model development
 
 **Design and implementation**:
+  + Coupling SurEau-Ecos to MEDFATE
 
 **Parameterization**:
 
@@ -36,9 +37,11 @@
 
 
 ### New software & updates
-
+  + New version of package meteoland (v.2.0.0) released
+  + New version of package medfate (v. 2.9.3) released
+  
 ### New datasets in the EMF catalog
-
+  + PlantClim v1.2
 
 ### New models in the EMF catalog
 
