@@ -39,11 +39,13 @@
 ### New software & updates
   + New version of package meteoland (v.2.0.0) released
   + New version of package medfate (v. 2.9.3) released
+  + New version of package meteospain (v. 0.1.2) released
   
 ### New datasets in the EMF catalog
   + PlantClim v1.2
 
 ### New models in the EMF catalog
+  + FATE-HD
 
 ### Publications using EMF tools
 
