@@ -4,7 +4,7 @@
 
   + **Programming support**: O. Boet
   + **Data management support**: 
-  + **Statistical support**: J. De la Casa
+  + **Statistical support**: J. De la Casa, A. Daiyoub
   + **Modelling support**: 
 
 ### Participation in research projects
