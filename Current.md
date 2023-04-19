@@ -43,6 +43,7 @@
   
 ### New datasets in the EMF catalog
   + PlantClim v1.2
+  + FIA
 
 ### New models in the EMF catalog
   + FATE-HD
