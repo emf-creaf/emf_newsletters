@@ -9,7 +9,7 @@
 
 ### Participation in research projects
 
-  + WildE kickoff meeting
+  + WildE kickoff meeting (https://www.wilde-project.eu/)
 
 ### Participation in transfer projects
 
@@ -18,10 +18,12 @@
 
 ### Network building
   + Workshop on process-based modelling (parameterization) with researchers from INRAE, under the umbrella of FORGENIUS EU project. 6-9th March
+  + Visit of Etienne Tourigny and Isabel Martinez Cano, from Barcelona Supercomputing Center (BSC) with the aim to explore potential collaborations. 18th April.
 
 ### Training & mentoring
 
 **Courses taught**:
+  + Basic R (Victor/Roberto)
 
 **Mentoring**:
   + J. Dávila (Ph. Student)
