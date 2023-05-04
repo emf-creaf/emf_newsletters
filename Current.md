@@ -3,7 +3,7 @@
 ### Basic support activity
 
   + **Programming support**: O. Boet
-  + **Data management support**: 
+  + **Data management support**: G. Rigola 
   + **Statistical support**: J. De la Casa, A. Daiyoub
   + **Modelling support**: 
 
