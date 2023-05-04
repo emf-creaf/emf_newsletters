@@ -44,8 +44,9 @@
   + New version of package meteospain (v. 0.1.2) released
   
 ### New datasets in the EMF catalog
-  + PlantClim v1.2
-  + FIA
+  + Other: PlantClim v1.2
+  + Other: FIA
+  + CREAF: Long-term hydrological and geochemical datasets (Montseny)
 
 ### New models in the EMF catalog
   + FATE-HD
