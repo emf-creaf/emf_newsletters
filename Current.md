@@ -3,7 +3,7 @@
 ### Basic support activity
 
   + **Programming support**: O. Boet
-  + **Data management support**: G. Rigola 
+  + **Data management support**: G. Rigola, P. Soler 
   + **Statistical support**: J. De la Casa, A. Daiyoub
   + **Modelling support**: 
 
@@ -46,6 +46,7 @@
 ### New datasets in the EMF catalog
   + Other: PlantClim v1.2
   + Other: FIA
+  + Other: GloNAF
   + CREAF: Long-term hydrological and geochemical datasets (Montseny)
 
 ### New models in the EMF catalog
