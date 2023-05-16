@@ -52,8 +52,9 @@
 ### New models in the EMF catalog
   + FATE-HD
 
-### Publications using EMF tools
+### Publications developing/using EMF tools
   + De Cáceres M, Molowny-Horas R, Cabon A, Martínez-Vilalta J, Mencuccini M, García-Valdés R, Nadal-Sala D, Sabaté S, Martin-StPaul N, Morin X, D’Adamo F, Batllori E, Améztegui A (accepted). MEDFATE 2.9.3: A trait-enabled model to simulate Mediterranean forest function and dynamics at regional scales. Geoscientific Model Development
 
 ### Publications from other collaborations
   + Casals P, Gabriel E, De Cáceres M, Ríos AI, Castro X (accepted). Composition and structure of Mediterranean shrublands for fuel characterization. Annals of Forest Science.
+  + Tuomi C, De Cáceres M, Grall J, Boyé A, Thiebaut É, Maguer M, Le Garrec V, Broudin C, Houbin, C, Gauthier O (2023). Long-term coastal macrobenthic Community Trajectory Analysis reveals habitat-dependent stability patterns. Ecography: e06489 (10.1111/ecog.06489).
