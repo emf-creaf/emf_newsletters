@@ -36,7 +36,7 @@
 **Parameterization**:
 
 **Evaluation**:
-
+  + LAI derived from allometries vs. remote sensing
 
 ### New software & updates
   + New version of package meteoland (v.2.0.0) released
@@ -53,7 +53,7 @@
   + FATE-HD
 
 ### Publications using EMF tools
-
+  + De Cáceres M, Molowny-Horas R, Cabon A, Martínez-Vilalta J, Mencuccini M, García-Valdés R, Nadal-Sala D, Sabaté S, Martin-StPaul N, Morin X, D’Adamo F, Batllori E, Améztegui A (accepted). MEDFATE 2.9.3: A trait-enabled model to simulate Mediterranean forest function and dynamics at regional scales. Geoscientific Model Development
 
 ### Publications from other collaborations
-
+  + Casals P, Gabriel E, De Cáceres M, Ríos AI, Castro X (accepted). Composition and structure of Mediterranean shrublands for fuel characterization. Annals of Forest Science.
