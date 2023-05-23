@@ -2,7 +2,7 @@
 
 ### Basic support activity
 
-  + **Programming support**: O. Boet
+  + **Programming support**: O. Boet, L. da Sois, O. Binks
   + **Data management support**: G. Rigola, P. Soler 
   + **Statistical support**: J. De la Casa, A. Daiyoub
   + **Modelling support**: 
@@ -10,6 +10,7 @@
 ### Participation in research projects
 
   + WildE kickoff meeting (https://www.wilde-project.eu/)
+  + Soil Carbon Catalunya????
 
 ### Participation in transfer projects
 
@@ -23,10 +24,14 @@
 ### Training & mentoring
 
 **Courses taught**:
-  + Basic R (Victor/Roberto)
+  + Basic R (Victor/Roberto, 16h)
 
 **Mentoring**:
   + J. Dávila (Ph. Student)
+
+**Teaching**:
+  + Ecología Forestal, explicación y uso del Laboratori Forestal Catalá (UAB, 1h, Víctor)
+  + Estudio de Casos en Biología Ambiental, acceso a bases de datos de biodiversidad con R (UAB, 1h, Víctor)
 
 ### Model development
 
@@ -42,6 +47,7 @@
   + New version of package meteoland (v.2.0.0) released
   + New version of package medfate (v. 2.9.3) released
   + New version of package meteospain (v. 0.1.2) released
+  + New version of package sapfluxnetr (v. 0.1.4) released
   
 ### New datasets in the EMF catalog
   + Other: PlantClim v1.2
@@ -58,3 +64,28 @@
 ### Publications from other collaborations
   + Casals P, Gabriel E, De Cáceres M, Ríos AI, Castro X (accepted). Composition and structure of Mediterranean shrublands for fuel characterization. Annals of Forest Science.
   + Tuomi C, De Cáceres M, Grall J, Boyé A, Thiebaut É, Maguer M, Le Garrec V, Broudin C, Houbin, C, Gauthier O (2023). Long-term coastal macrobenthic Community Trajectory Analysis reveals habitat-dependent stability patterns. Ecography: e06489 (10.1111/ecog.06489).
+  + Bachofen C, Poyatos R, Flo V, Martínez-Vilalta J, Mencuccini M, Granda V, Grossiord C (2023). Stand structure of Central European forests matters more than climate for transpiration sensitivity to VPD. Journal of Applied Ecology (10.1111/1365-2664.14383)
+  
+### EMF Online impact 01/03/2023 - 23/05/2023
+
+(Online statistics for EMF and LFC started being collected on March 2023)
+
+  + Laboratori Forestal Català (LFC):
+    
+    - 185 visits
+    - 5:46 mins average visit duration
+    - 650 page views
+    - Apps more used
+      + IFN App
+      + Allometrapp
+      + SiteDrought App
+  
+  + EMF Web:
+  
+    - 423 visits
+    - 5:02 mins average visit duration
+    - 1625 page views
+    - Pages more visited
+      + External models
+      + CREAF models
+      + EMF software
