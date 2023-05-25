@@ -4,16 +4,17 @@
 
   + **Programming support**: O. Boet, L. da Sois, O. Binks
   + **Data management support**: G. Rigola, P. Soler 
-  + **Statistical support**: J. De la Casa, A. Daiyoub
-  + **Modelling support**: 
+  + **Statistical support**: J. De la Casa, A. Daiyoub, Anna Zango, Anaïs Jolivet, Albert Vilà, Iolanda Filella, Oriol Lapiedra
+  + **Modelling support**: Susana Silvestre, Ismael Hernández, Jordi Vayreda, Maricel Móstiga
 
 ### Participation in research projects
 
   + WildE kickoff meeting (https://www.wilde-project.eu/)
-  + Soil Carbon Catalunya????
+  + Soil Carbon Catalunya
+  + COGBUFFER
+  + CARDIMED
 
 ### Participation in transfer projects
-
   + OCCC
   + OECC
 
@@ -65,6 +66,7 @@
   + Casals P, Gabriel E, De Cáceres M, Ríos AI, Castro X (accepted). Composition and structure of Mediterranean shrublands for fuel characterization. Annals of Forest Science.
   + Tuomi C, De Cáceres M, Grall J, Boyé A, Thiebaut É, Maguer M, Le Garrec V, Broudin C, Houbin, C, Gauthier O (2023). Long-term coastal macrobenthic Community Trajectory Analysis reveals habitat-dependent stability patterns. Ecography: e06489 (10.1111/ecog.06489).
   + Bachofen C, Poyatos R, Flo V, Martínez-Vilalta J, Mencuccini M, Granda V, Grossiord C (2023). Stand structure of Central European forests matters more than climate for transpiration sensitivity to VPD. Journal of Applied Ecology (10.1111/1365-2664.14383)
+  + Margalef-Marrase J., Molowny-Horas R., Jaime L., Lloret F. (2023). Modelling the dynamics of Pinus sylvestris forests after a die-off event under climate change scenarios. Science of The Total Environment, Volume 856, Part 2.
   
 ### EMF Online impact 01/03/2023 - 23/05/2023
 
