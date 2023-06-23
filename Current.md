@@ -50,7 +50,7 @@
   + 
   
 ### Publications developing/using EMF tools
-  + 
+  + Barbeta A, et al. (2023). Disentangling the Role of Forest Structure and FunctionalTraits in the Thermal Balance of the Mediterranean–Temperate Ecotone. JGR Biogeosciences. 10.1029/2022JG007264
 
 ### Publications from other collaborations
   + 
