@@ -4,7 +4,7 @@
 
   + **Programming support**: 
   + **Data management support**:  
-  + **Statistical support**: 
+  + **Statistical support**: M. Braña (D. Sol/F. Sayol) 
   + **Modelling support**: 
 
 ### Participation in research projects
