@@ -5,7 +5,7 @@
   + **Programming support**: 
   + **Data management support**:  
   + **Statistical support**: M. Braña (D. Sol/F. Sayol) 
-  + **Modelling support**: 
+  + **Modelling support**: J. Dávila
 
 ### Participation in research projects
 
@@ -24,7 +24,7 @@
   + 
 
 **Mentoring**:
-  + 
+  + J. Dávila
 
 **Teaching**:
   + 
