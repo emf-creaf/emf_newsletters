@@ -1,63 +1,77 @@
 # NEWSLETTER content for EMF
 
+Activity conducted at EMF between *01/06/2023* and *27/10/2023*
+
 ### Basic support activity
 
   + **Programming support**: 
   + **Data management support**:  
   + **Statistical support**: M. Braña (D. Sol/F. Sayol) 
-  + **Modelling support**: J. Dávila
+  + **Modelling support**: J. Dávila, J. De la Casa
 
 ### Participation in research projects
 
-  + 
-
+  + **WILDE** (EU - Researchers: J.M. Espelta, L. Brotons): Participation in a workshop on scenario definition and post-doc hiring to work on the Barcelona case study (https://www.wilde-project.eu/)
+  + **RESONATE** (EU - Researchers: J. Martínez, F. Lloret, J.M. Espelta): Assisting in the use of MEDFATE for the evaluation of forest ecosystem services.
+  + **FORGENIUS** (EU - Researchers: M. Mencuccini): Collaboration with Nicolas Martin-StPaul on comparison and parameterization of models of plant hydraulics.
+  + **BOMFORES** (Spain - IP: M. De Cáceres): Design of new processes and development of model initialisation routines. 
+  
 ### Participation in transfer projects
 
-  + 
+  + **Contract with Centre de la Propietat Forestal** (A. Tovar, J. Vayreda, M. De Cáceres, R. Molowny): Preparation of a proposal for revision of carbon sequestration due to changes in silvicultural practices.
+  + **Contracte programa / Oficina Catalana de Canvi Climàtic** (M. De Cáceres, J. Vayreda, M. Banqué, R. Molowny): Simulation of forest projections including management scenarios and climate scenarios.
 
 ### Network building
-  +
+
+  + Miquel De Cáceres and Adriana Tovar attended a National conference (XIII AEET Meeting. Almeria (Spain) 16 – 20 october 2023), including an oral presentation.
 
 ### Training & mentoring
 
 **Courses taught**:
-  + 
+
+  + Accessing and processing climate data with meteospain and meteoland R packages (Victor/Miquel, 12h, Watering Talents/CREAF)
 
 **Mentoring**:
+
   + J. Dávila
 
-**Teaching**:
-  + 
-  
 ### Model development
 
 **Design and implementation**:
-  + 
+
+  + Implementation of dispersal routines in `medfateland`.
+  + Revision of plant hydraulics (sub-models Sperry and SurEau) in `medfate`.
 
 **Parameterization**:
-  +
+
+  + Development of model initialization routines from different national forest inventories (Spain, France, EEUU)
+  + Parameterization of resprouting and fire severity in `medfate`.
+  + Definition of target species lists for simulations with national forest inventories (Spain, France, EEUU)
   
-**Evaluation**:
-  + 
 
 ### New software & updates
-  + 
+
+  + New version of package `meteospain` (v. 0.1.3) released on CRAN
+  + New version of package `meteoland` (v.2.1.0) released on CRAN
+  + New version of package `medfate` (v. 3.1.4) released on CRAN
+  + Update of MeteolandApp, CatDroughtApp and SiteDroughtApp of the *Laboratori Forestal Català* to match changes in package `meteoland` 
   
-### New datasets in the EMF catalog
-  + 
-  
-### New models in the EMF catalog
-  + 
+### New technical documents
+
+  + *Evaluation of Ecosystem Services* - Provides the definition and operational estimation procedures of a number of forest ecosystem services to be evaluated for Catalonia (NE Spain) both in historical assessments (using forest inventory data) and future projections (using model simulations of forest function and dynamics).
+
   
 ### Publications developing/using EMF tools
-  + Barbeta A, et al. (2023). Disentangling the Role of Forest Structure and FunctionalTraits in the Thermal Balance of the Mediterranean–Temperate Ecotone. JGR Biogeosciences. 10.1029/2022JG007264
+
+  + Barbeta A, et al. (2023). Disentangling the Role of Forest Structure and Functional Traits in the Thermal Balance of the Mediterranean–Temperate Ecotone. JGR Biogeosciences. 10.1029/2022JG007264
 
 ### Publications from other collaborations
-  + 
-  
-### EMF Online impact 01/03/2023 - 23/05/2023
 
-(Online statistics for EMF and LFC started being collected on March 2023)
+  + Sturbois A, De Cáceres M, Aline B, Bioret F, Boyé A, Olivier G, Grall J, Grémare A, Labrune C, Robert A, Schaal G, Desroy N (2023). Ecological Quality Assessment: a framework to report ecosystems quality and their dynamics from reference conditions. Ecosphere (accepted).
+  + Balaguer-Romano R, Díaz-Sierra R, De Cáceres M, Voltas J, Boer MM, Resco De Dios V (2023). Modeling fuel moisture dynamics under climate change in Spain’s forests. Fire Ecology (accepted).
+  + Sánchez-Pinillos M, Kéfi S, De Cáceres M, Dakos V (2023). Ecological dynamic regimes: Identification, characterization, and comparison. Ecological Monographs (https://doi.org/10.1002/ecm.15899).
+  
+### EMF Online impact 01/06/2023 - 20/10/2023
 
   + Laboratori Forestal Català (LFC):
   
