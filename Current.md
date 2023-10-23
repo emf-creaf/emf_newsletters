@@ -26,12 +26,13 @@ Activity conducted at EMF between *01/06/2023* and *27/10/2023*
 ### Network building
 
   + Miquel De Cáceres and Adriana Tovar attended a National conference (XIII AEET Meeting. Almeria (Spain) 16 – 20 october 2023), including an oral presentation.
+  + EMF has now an X (formerly Twitter) account (@EcosystemModelF) to help communicating news regarding its activity.
 
 ### Training & mentoring
 
 **Courses taught**:
 
-  + Accessing and processing climate data with meteospain and meteoland R packages (Victor/Miquel, 12h, Watering Talents/CREAF)
+  + Accessing and processing climate data with `meteospain` and `meteoland` R packages (Victor/Miquel, 12h, Watering Talents/CREAF)
 
 **Mentoring**:
 
@@ -56,7 +57,6 @@ Activity conducted at EMF between *01/06/2023* and *27/10/2023*
   + New version of package `meteospain` (v. 0.1.3) released on CRAN
   + New version of package `meteoland` (v.2.1.0) released on CRAN
   + New version of package `medfate` (v. 3.1.4) released on CRAN
-  + Update of MeteolandApp, CatDroughtApp and SiteDroughtApp of the *Laboratori Forestal Català* to match changes in package `meteoland` 
   + Update of the *Laboratori Forestal Català* web:
     - Update of MeteolandApp, CatDroughtApp and SiteDroughtApp to match changes in package `meteoland`.
     - Maintenance of all apps to keep up to date library dependencies and web tools.
@@ -68,13 +68,15 @@ Activity conducted at EMF between *01/06/2023* and *27/10/2023*
   
 ### Publications developing/using EMF tools
 
-  + Barbeta A, et al. (2023). Disentangling the Role of Forest Structure and Functional Traits in the Thermal Balance of the Mediterranean–Temperate Ecotone. JGR Biogeosciences. 10.1029/2022JG007264
+  + Margalef-Marrase J, Molowny-Horas R, Jaime L, Lloret F (2023). Modelling the dynamics of Pinus sylvestris forests after a die-off event under climate change scenarios. Science of The Total Environment 856: 159063.
 
 ### Publications from other collaborations
 
   + Sturbois A, De Cáceres M, Aline B, Bioret F, Boyé A, Olivier G, Grall J, Grémare A, Labrune C, Robert A, Schaal G, Desroy N (2023). Ecological Quality Assessment: a framework to report ecosystems quality and their dynamics from reference conditions. Ecosphere (accepted).
   + Balaguer-Romano R, Díaz-Sierra R, De Cáceres M, Voltas J, Boer MM, Resco De Dios V (2023). Modeling fuel moisture dynamics under climate change in Spain’s forests. Fire Ecology (accepted).
   + Sánchez-Pinillos M, Kéfi S, De Cáceres M, Dakos V (2023). Ecological dynamic regimes: Identification, characterization, and comparison. Ecological Monographs (https://doi.org/10.1002/ecm.15899).
+  + Bachofen C, Poyatos R, Flo V, Martínez-Vilalta J, Mencuccini M, Granda V, Grossiord C (2023). Stand structure of Central European forests matters more than climate for transpiration sensitivity to VPD. Journal of Applied Ecology (https://doi.org/10.1111/1365-2664.14383).
+  + Bookwalter JD, Caballero-López B, Molowny-Horas R, Claramunt-López B (2023). Understanding the Coleoptera community at the tree-line using taxonomic and functional guild approaches. Agricultural and Forest Entomology  (https://doi.org/10.1111/afe.12589).
   
 ### EMF Online impact 01/06/2023 - 20/10/2023
 
