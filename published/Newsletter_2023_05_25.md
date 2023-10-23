@@ -4,7 +4,7 @@ Activity conducted at EMF between *01/01/2023* and *31/05/2023*
 
 ### Basic support activity
 
-  + **Programming support**: O. Boet, L. da Sois, O. Binks
+  + **Programming support**: O. Boet, L. da Sois, O. Binks, F. d'Adamo
   + **Data management support**: G. Rigola, P. Soler 
   + **Statistical support**: J. De la Casa, A. Daiyoub, A. Zango, A. Jolivet, A. Vilà, I. Filella, O. Lapiedra
   + **Modelling support**: S. Silvestre, I. Hernández, J.M. Espelta, J. Vayreda, M. Móstiga
