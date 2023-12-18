@@ -5,7 +5,7 @@ Activity conducted at EMF between ** and **
 ### Basic support activity
 
 -   **Programming support**: 
--   **Data management support**: 
+-   **Data management support**: E. Pla
 -   **Statistical support**: 
 -   **Modelling support**: 
 
@@ -36,37 +36,35 @@ Activity conducted at EMF between ** and **
 
 **Mentoring**:
 
--   
+-   J. Dávila
 
 ### Model development
 
 **Design and implementation**:
 
--   Implementation of dispersal routines in `medfateland`.
--   Revision of plant hydraulics (sub-models Sperry and SurEau) in `medfate`.
+-   
 
 **Parameterization**:
 
--   Development of model initialization routines from different national forest inventories (Spain, France, EEUU)
--   Parameterization of resprouting and fire severity in `medfate`.
--   Definition of target species lists for simulations with national forest inventories (Spain, France, EEUU)
--   Revision and recalibration of `fpm` package functions.
+-   ESUS package
+-   Parameter estimation for medfate
 
 ### New software & updates
 
--   
+-   New version of package `meteoland` (v.2.2.1) released on CRAN
+-   New version of package `medfate` (v. 3.2.0) released on CRAN
 
 ### New technical documents
 
--   
+-   [*Parallel computation in R*](https://emf.creaf.cat/tech_docs/r_parallel_computing_tech_doc/) 
 
 ### Publications developing/using EMF tools
 
--   
+-   Cabon A, Ameztegui A, Anderegg WRL, Martínez-Vilalta J, De Cáceres M (2024). Probing the interplay of biophysical constraints and photosynthesis to model tree growth. Agriculture and Forest Meteorology 345: 109852 (https://doi.org/10.1016/j.agrformet.2023.109852).
 
 ### Publications from other collaborations
 
--   
+- Torres-Ruiz JM, Cochard H, Delzon S, Boivin T, Burlett R, Cailleret M, Corso D, Delmas C, De Caceres M, Diaz-Espejo A, Fernandez-Conradi P, Guillemot J, Lamarque L, Limousin, JM, Mantova M, Mencuccini M, Morin X, Pimont F, Resco de Dios V, Ruffault J, Trueba S, Martin-StPaul, N (2024). Plant hydraulics at the heart of plant, crops and ecosystem functions in the face of climate change. New Phytologist (https://doi.org/10.1111/nph.19463).
 
 ### EMF Online impact 01/06/2023 - 20/10/2023
 
