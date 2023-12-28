@@ -65,6 +65,7 @@ Activity conducted at EMF between ** and **
   + [*Tundra Trait Team*](https://github.com/TundraTraitTeam/TraitHub): A database of plant traits spanning the tundra biome.
   + [*FunAndes*](https://doi.org/10.6084/m9.figshare.19665471): A functional trait database of Andean plants. 
   + [*FLAMITS*](https://doi.org/10.5061/dryad.h18931zr3): A global database of plant flammability traits. 
+  + [*RSIP*](https://doi.org/10.1111/nph.18031): Root systems of individual plants.
   
 ### New workflows
 
