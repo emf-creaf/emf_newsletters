@@ -54,7 +54,19 @@ Activity conducted at EMF between ** and **
 -   New version of package `meteoland` (v.2.2.1) released on CRAN
 -   New version of package `medfate` (v. 3.2.0) released on CRAN
 
-### New technical documents
+### New datasets in the EMF catalog
+
+**External datasets**:
+
+  + [*IFN Andorra*](https://ari-sostenibilitat.notion.site/1r-Inventari-Nacional-Forestal-d-Andorra-169c7041481549fdbc3a1590a9fef448): Inventari Forestal Nacional d’Andorra.
+  + [*CPTD 2.0*](https://doi.org/10.6084/m9.figshare.19448219.v6): The China plant trait database version 2.
+  + [*BROT 2.0*](https://doi.org/10.6084/m9.figshare.c.3843841.v1): A functional trait database for Mediterranean Basin plants.
+  + [*AusTraits*](https://doi.org/10.6084/m9.figshare.14545755): A curated plant trait database for the Australian flora.
+  + [*Tundra Trait Team*](https://github.com/TundraTraitTeam/TraitHub): A database of plant traits spanning the tundra biome.
+  + [*FunAndes*](https://doi.org/10.6084/m9.figshare.19665471): A functional trait database of Andean plants. 
+  + [*FLAMITS*](https://doi.org/10.5061/dryad.h18931zr3): A global database of plant flammability traits. 
+  
+### New workflows
 
 -   [*Parallel computation in R*](https://emf.creaf.cat/tech_docs/r_parallel_computing_tech_doc/) 
 
