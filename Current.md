@@ -1,12 +1,12 @@
 # NEWSLETTER content for EMF
 
-Activity conducted at EMF between ** and **
+Activity conducted at EMF between *28/10/2023* and *14/06/2024*
 
 ### Basic support activity
 
 -   **Programming support**: 
--   **Data management support**: E. Pla
--   **Statistical support**: 
+-   **Data management support**: E. Pla, L. Andreu-Hayles
+-   **Statistical support**: M. Riba 
 -   **Modelling support**: 
 
 ### Participation in research projects
@@ -17,16 +17,25 @@ Activity conducted at EMF between ** and **
 -   **BOMFORES** (Spain - IP: M. De Cáceres): Design of new processes and development of model initialisation routines.
 -   **DRASTIC** (Spain - IP: M. Mencuccini): Tree water use and Drought responses: the roles of allometry, water storage and transport under climate change
 -   **C4N** (EU - IP: A. Broekman): Transfer knowledge and best practices, as well as harmonising policies, to tackle the challenges related to biodiversity protection and climate change.
+-   **TOFU** (Catalunya - IP: J. Oliva (UdL)): Healthier forests for a sustainable future. 
+
+- Submission of a project proposal at the National level (MICINN), co-led by M. De Cáceres and J.M. Espelta.
 
 ### Participation in transfer projects
 
--   **Contract with Centre de la Propietat Forestal** (A. Tovar, J. Vayreda, M. De Cáceres, R. Molowny): Preparation of a proposal for revision of carbon sequestration due to changes in silvicultural practices.
+-   **Contract with Centre de la Propietat Forestal** (A. Tovar, J. Vayreda, M. De Cáceres, R. Molowny): Methodological revision of the effects of changes in silvicultural practices on carbon sequestration and forest function using modelling approaches.
 -   **Contracte programa / Oficina Catalana de Canvi Climàtic** (M. De Cáceres, J. Vayreda, M. Banqué, R. Molowny): Simulation of forest projections including management scenarios and climate scenarios.
--   **Grup de treball de Carboni al Sòl** (R. Molowny, V. Granda, several CREAF researchers and other 7 Research Centers in Catalonia): Soil carbon database and maps for Catalonia (Generalitat).
+-   **Grup de treball de Carboni al Sòl** (R. Molowny, several CREAF researchers and other 7 Research Centers in Catalonia): Soil carbon modelling for Catalonia (Generalitat).
 
 ### Network building
 
--   
+- Researcher Nicolas Martin-StPaul visited CREAF on a 3-month sabbatical, thanks to Severo Ochoa visitor program, to work with EMF on plant hydraulic model comparison and parameter estimation.
+
+- M. De Cáceres, R. Balaguer-Romano (WildE postdoc) and A. Sañé (Msc student) visited INRAE-URFM avignon to collaborate on a study focused on live fuel moisture content (LFMC) modelling and in general to strengthen collaboration.
+
+- The forest modelling framework led by EMF (packages `medfate`, `medfateland`, `meteoland` and `traits4models`) are now part of a collaborative effort between CREAF, CTFC and INRAE-URFM (Avignon), with the aim to become a reference at the Mediterranean level. 
+
+- Software hackaton held in CREAF (2 days), with researchers from U.Zaragoza, U.P. Valencia and Forschungszentrum Julich (Germany) to progress in the coupling between `medfateland` and the hydrological model SERGHEI.
 
 ### Training & mentoring
 
@@ -36,23 +45,33 @@ Activity conducted at EMF between ** and **
 
 **Mentoring**:
 
--   J. Dávila
+- Ms.C. level: A. Sañé
+- Ph.D level: J. Dávila, J. De la Casa
+- Ph.D level (visitors): V. Saponaro (U. Tuscia, Italy)
+- Post-doc level: R. Balaguer-Romano, F. D'Adamo
 
 ### Model development
 
 **Design and implementation**:
 
--   
+- Development of R package `forestables` (alpha version) for loading and harmonizing national forest inventory from several countries (Spain, France, USA). Currently available on EMF GitHub only. 
 
-**Parameterization**:
+- Revision of soil hydrology in package `medfate` and of lateral transfer processes in the implementation of model TETIS in package `medfateland`, in collaboration with María González Sanchís (CTFC).
 
--   ESUS package
--   Parameter estimation for medfate
+- Development of R package `traits4models` aiming at facilitating the process of estimating plant species parameters for process-based models (harmonization of plant trait data bases and parameter table filling) 
+
+**Parameter estimation**:
+
+- Development of model initialization routines for simulations in spatial contexts (forest inventory locations and continuous landscapes), to be used with package `medfateland`.
+
+- Harmonization of plant trait data sources and development of plant species parameter datasets for Spain, France, US and Australia.
 
 ### New software & updates
 
--   New version of package `meteoland` (v.2.2.1) released on CRAN
--   New version of package `medfate` (v. 3.2.0) released on CRAN
+- New version of package `meteospain` (v. 0.1.4) released on CRAN
+- New version of package `meteoland` (v.2.2.1) released on CRAN
+- New version of package `medfate` (v. 4.3.1) released on CRAN
+- Package `medfateland` (v. 2.4.3) released on CRAN for the first time
 
 ### New datasets in the EMF catalog
 
@@ -74,13 +93,21 @@ Activity conducted at EMF between ** and **
 
 ### Publications developing/using EMF tools
 
--   Cabon A, Ameztegui A, Anderegg WRL, Martínez-Vilalta J, De Cáceres M (2024). Probing the interplay of biophysical constraints and photosynthesis to model tree growth. Agriculture and Forest Meteorology 345: 109852 (https://doi.org/10.1016/j.agrformet.2023.109852).
+-  Sánchez-Dávila J, De Cáceres M, Vayreda J, Retana J (2024) Regional patterns and drivers of modelled water flows along environmental, functional and stand structure gradients in Spanish forests. Hydrol. Earth Syst. Sci. Discuss ([in press](https://hess.copernicus.org/preprints/hess-2023-255/)).
+
+-  Cabon A, Ameztegui A, Anderegg WRL, Martínez-Vilalta J, De Cáceres M (2024). Probing the interplay of biophysical constraints and photosynthesis to model tree growth. Agriculture and Forest Meteorology 345: 109852 (https://doi.org/10.1016/j.agrformet.2023.109852).
 
 ### Publications from other collaborations
 
+- Grünig M, Rammer W, Albrich K, André F, Augustynczik ALD, Bohn F, Bouwman M, Bugmann H, Collalti A, Cristal I, Dalmonech D, De Cáceres M, De Coligny D, Dobor L, Dollinger C, Forrester DI, Garcia-Gonzalo JG, González JR, Hiltner U, Hlásny T, Honkaniemi J, Huber N, Jonard M, Jönsson AM, Lagergren F, Nieberg M, Mina M, Mohren F, Moos C, Morin X, Muys B, Peltoniemi M, Reyer CPO, Storms I, Thom D, Toïgo M, Seidl R (2024). A harmonized database of European forest simulations under climate change. Data in Brief 54: 110384 (https://doi.org/10.1016/j.dib.2024.110384).
+
 - Torres-Ruiz JM, Cochard H, Delzon S, Boivin T, Burlett R, Cailleret M, Corso D, Delmas C, De Caceres M, Diaz-Espejo A, Fernandez-Conradi P, Guillemot J, Lamarque L, Limousin, JM, Mantova M, Mencuccini M, Morin X, Pimont F, Resco de Dios V, Ruffault J, Trueba S, Martin-StPaul, N (2024). Plant hydraulics at the heart of plant, crops and ecosystem functions in the face of climate change. New Phytologist (https://doi.org/10.1111/nph.19463).
 
-### EMF Online impact 01/06/2023 - 20/10/2023
+### Communication
+
+-  Oral presentation given and participation in round table on the *Dia internacional dels boscos*, focusing on water-related issues, held in 21/03/2024.
+
+### EMF Online impact 21/10/2023 - 14/06/2024
 
 -   Laboratori Forestal Català (LFC):
     -   *Stats*: 
