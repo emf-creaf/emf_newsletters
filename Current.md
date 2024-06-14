@@ -4,10 +4,10 @@ Activity conducted at EMF between *28/10/2023* and *14/06/2024*
 
 ### Basic support activity
 
--   **Programming support**: 
+-   **Programming support**: J. Sardans
 -   **Data management support**: E. Pla, L. Andreu-Hayles
--   **Statistical support**: M. Riba 
--   **Modelling support**: 
+-   **Statistical support**: M. Riba, S. Albacete, S. Silvestre, J. Peñuelas, O. Boet, C. Sabaté
+-   **Modelling support**: L. Andreu-Hayles, J. Rhoades, E. Pla, C. Azpiazu, M. Mostiga
 
 ### Participation in research projects
 
@@ -17,7 +17,8 @@ Activity conducted at EMF between *28/10/2023* and *14/06/2024*
 -   **BOMFORES** (Spain - IP: M. De Cáceres): Design of new processes and development of model initialisation routines.
 -   **DRASTIC** (Spain - IP: M. Mencuccini): Tree water use and Drought responses: the roles of allometry, water storage and transport under climate change
 -   **C4N** (EU - IP: A. Broekman): Transfer knowledge and best practices, as well as harmonising policies, to tackle the challenges related to biodiversity protection and climate change.
--   **TOFU** (Catalunya - IP: J. Oliva (UdL)): Healthier forests for a sustainable future. 
+-   **TOFU** (Catalunya - IP: J. Oliva (UdL)): Healthier forests for a sustainable future.
+-   **CARDIMED** (EU - CREAF coordinator: P. Andrés): Climate Adaptation and Resilience Demonstrated In the MEDiterranean region
 
 - Submission of a project proposal at the National level (MICINN), co-led by M. De Cáceres and J.M. Espelta.
 
@@ -40,14 +41,14 @@ Activity conducted at EMF between *28/10/2023* and *14/06/2024*
 ### Training & mentoring
 
 **Courses taught**:
-
--   
+- Introduction to R and basic statistics, tidyverse, ggplot2, Rmarkdown and Quarto (V. Granda and R. Molowny, Facultat de Biologia, UB).
 
 **Mentoring**:
 
 - Ms.C. level: A. Sañé
 - Ph.D level: J. Dávila, J. De la Casa
 - Ph.D level (visitors): V. Saponaro (U. Tuscia, Italy)
+- Ph.D level (co-supervision R. Molowny): F. Andrade (CREAF)
 - Post-doc level: R. Balaguer-Romano, F. D'Adamo
 
 ### Model development
@@ -58,7 +59,9 @@ Activity conducted at EMF between *28/10/2023* and *14/06/2024*
 
 - Revision of soil hydrology in package `medfate` and of lateral transfer processes in the implementation of model TETIS in package `medfateland`, in collaboration with María González Sanchís (CTFC).
 
-- Development of R package `traits4models` aiming at facilitating the process of estimating plant species parameters for process-based models (harmonization of plant trait data bases and parameter table filling) 
+- Development of R package `traits4models` aiming at facilitating the process of estimating plant species parameters for process-based models (harmonization of plant trait data bases and parameter table filling)
+
+- Development of R package `dendrohist` as companion software for the namesake DENDROHIST project led by Dr. L. Andreu-Hayles.
 
 **Parameter estimation**:
 
