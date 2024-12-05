@@ -53,7 +53,7 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 -   Ph.D level (co-supervision R. Molowny): F. Andrade (CREAF)
 -   Post-doc level: R. Balaguer-Romano, F. D'Adamo
 
-### Model development
+### Software & model development
 
 **Design and implementation**:
 
@@ -61,15 +61,15 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 -   Profiling and code optimization for packages `medfate` and `medfateland`.
 -   Development of R package `hydrospain` [Roberto!].
 
-**Parameter estimation**:
+**Model parameter estimation**:
 
 -   Harmonization of additional plant trait data sources and development of plant species parameter datasets for Spain, France, US and Australia.
 
-**Evaluation**
+**Model evaluation**
 
 -   Evaluation of watershed-level runoff against river gauge data (section in `medfateland` website).
 
-### New software & updates
+### New software & update releases
 
 -   New version of package `meteospain` (v. 0.2.0) released on CRAN
 -   New version of package `meteoland` (v.2.2.2) released on CRAN
@@ -79,7 +79,7 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
     -   Maintenance of all apps to keep up to date library dependencies and web tools.
     -   Update of map library from leaflet to mapdeck, not in production yet.
 
-### EMF internal infraestructure improvements:
+### EMF internal infraestructure improvements
 
 -   Internal notification system (ntfy)
 -   Public data transfer repository (https://data-emf.creaf.cat/public/)
