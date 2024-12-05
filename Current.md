@@ -111,10 +111,11 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 
 ### Communication
 
--   Charla PATT: **Aplicatius informàtics de suport a la gestió. Laboratori Forestal Català** (Víctor Granda)
--   **V Jornada de la funció de les dades: La funció de les dades en el canvi climàtic**. Organizado por la Associació d'Intel·ligència Artificial, la Societat Catalana de Matemàtiques y la Societat Catalana d'Estadística (Víctor Granda)
--   Oral presentation given at IUFRO XXVI World Congress. Stockholm (Sweden) 23-29 june 2024: **MEDFATE 3.0.0: A trait-enabled model to simulate
-Mediterranean forest function and dynamics at regional scales**
+-   Oral presentation at *Jornades PATT*: **Aplicatius informàtics de suport a la gestió. Laboratori Forestal Català** (Víctor Granda)
+-   Participation in *V Jornada de la funció de les dades: La funció de les dades en el canvi climàtic*, organized by the *Associació d'Intel·ligència Artificial*, *Societat Catalana de Matemàtiques* and *Societat Catalana d'Estadística* (Víctor Granda)
+-   Oral presentation given at *IUFRO XXVI World Congress. Stockholm* (Sweden) 23-29 June 2024: **MEDFATE 3.0.0: A trait-enabled model to simulate Mediterranean forest function and dynamics at regional scales** (Miquel De Cáceres)
+-   Oral presentation given at  *I Jornadas de Ecoinformática AEET* (Alcalá de Henares, Madrid)  24-25 October 2024: **forestables: un enfoque estructurado para la armonización de Datos de Inventarios Forestales Nacionales** (Adriana Tovar)
+-   Creation of a new profile on the BlueSky platform:  https://bsky.app/profile/ecosystemmodelf.bsky.social 
 
 ### EMF Online impact 15/06/2024 - 06/12/2024
 
