@@ -4,10 +4,10 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 
 ### Basic support activity
 
--   **Programming support**: Enrique Doblas, Laura Stewart, Mireia Banque
--   **Data management support**: Mireia Banque
--   **Statistical support**: G. Bexultanova (Ph.D. student, M. Mencuccini)
--   **Modelling support**: Mireia Banque
+-   **Programming support**: E. Doblas, L. Stewart, M. Banque, O. Binks
+-   **Data management support**: M. Banque
+-   **Statistical support**: G. Bexultanova (Ph.D. student, M. Mencuccini), C. López (technician, A. Ribas), C. Azpiazu, S. Albacete.
+-   **Modelling support**: M. Banque, J. Peñuelas
 
 ### Participation in research projects
 
@@ -20,6 +20,8 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 -   **C4N** (EU - IP: A. Broekman): Transfer knowledge and best practices, as well as harmonising policies, to tackle the challenges related to biodiversity protection and climate change.
 -   **TOFU** (Catalunya - IP: J. Oliva (UdL)): Healthier forests for a sustainable future.
 -   **CARDIMED** (EU - CREAF coordinator: P. Andrés): Climate Adaptation and Resilience Demonstrated In the MEDiterranean region
+-   **RESFIRE** (Spain - IPs: L. Brotons, S. Fraixedas): Assessing the potential of REStoring ecological FIRe regimes as Nature-based Solution to extreme wildfires in Mediterranean ecosystems.
+-   **STOIKOS** (EU - IP: M. Fernández Martínez) Elemental ecology: towards an element-based functional ecology.
 
 ### Participation in transfer projects
 
@@ -36,7 +38,7 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 
 -  Software hackaton held in CREAF (2 days, Oct 2024), with researchers from U.Zaragoza and U.P. Valencia to progress in the coupling between `medfateland` and the hydrological model SERGHEI.
 
--  Meeting between EMF two research groups from CTFC, with the aim to strengthen the collaboration in development of simulation and post-processing tools (e.g. estimation of ecosystem services).
+-  Meeting between EMF and two research groups from CTFC, with the aim to strengthen the collaboration in development of simulation and post-processing tools (e.g. estimation of ecosystem services).
 
 
 ### Training & mentoring
@@ -59,7 +61,7 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 
 -   Development of R package `forestables` (alpha version) for loading and harmonizing national forest inventory from several countries (Spain, France, USA). Currently available on EMF GitHub only. 
 -   Profiling and code optimization for packages `medfate` and `medfateland`.
--   Development of R package `hydrospain` [Roberto!].
+-   Development of R package `hydrospain` (submitted to CRAN).
 
 **Model parameter estimation**:
 
@@ -108,6 +110,8 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 ### Publications from other collaborations
 
 -   Druel A, Ruffault J, Davi H, Chanzy A, Marloie O, De Cáceres M, Mouillot F, François C, Soudani, Martin-StPaul N (2024). Enhancing environmental models with a new downscaling method for global radiation in complex terrain. Biogeosciences. (https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1800/)
+
+-   J.M. Espelta, M. Banqué, R. Molowny-Horas, M. de Cáceres (2024). Incendis, gestió i decaïment forestal a Catalunya: Quina ha estat la seva incidència recent (1986-2023)?. Catalunya Forestal 160, 2n trimestre 2024, 18-20 (https://www.forestal.cat/web/revista-i-publicacions/hemeroteca/?n=169)
 
 ### Communication
 
