@@ -93,14 +93,6 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 
   +   [*CARBOSOL*](https://doi.pangaea.de/10.1594/PANGAEA.884517): Physical and chemical properties of 6,609 soil profiles in Spain.
 
-**CREAF datasets**:
-
-  +   
-  
-### New workflows
-
--   
-
 ### Publications developing/using EMF tools
 
 -   Balaguer-Romano R, De Cáceres M, Espelta JM Second-growth forests exhibit higher climate sensitivity in both drier and wetter years consistent with differences in root allocation. Ecosystems (in press).
@@ -124,8 +116,8 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 ### EMF Online impact 15/06/2024 - 06/12/2024
 
 -   Laboratori Forestal Català (LFC):
-    -   *Stats*: 0 visits / 0:00 mins average visit duration / 0 page views
-    -   *Apps most used*: IFN App (0 times) / Allometrapp (0 times) / DeBosCat App (0 times)
+    -   *Stats*: 653 visits / 6:06 mins average visit duration / 2166 page views
+    -   *Apps most used*: Allometrapp (341 times) / IFN App (229 times) / DeBosCat App (187 times)
 -   EMF Web:
-    -   *Stats*: 0 visits / 0:00 mins average visit duration / 0 page views
-    -   *Pages most visited*: External models (0 visits) / External Data (0 visits) / CREAF models (0 visits)
+    -   *Stats*: 1303 visits / 3:58 mins average visit duration / 4194 page views
+    -   *Pages most visited*: External models (536 visits) / Training (493 visits) / External data (476 visits)
