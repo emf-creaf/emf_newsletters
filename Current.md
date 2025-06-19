@@ -4,10 +4,10 @@ Activity conducted at EMF between *13/12/2024* and *19/06/2025*
 
 ### Basic support activity
 
--   **Programming support**: 
+-   **Programming support**: Laia Andreu-Hayles
 -   **Data management support**: 
--   **Statistical support**: G. Bexultanova (Ph.D. student, M. Mencuccini), J De la Casa (Ph.D. student, J. Peñuelas/S. Nogué).
--   **Modelling support**: E. Spennati (Ph.D. student, M. Mencuccini)
+-   **Statistical support**: G. Bexultanova (Ph.D. student, M. Mencuccini), J De la Casa (Ph.D. student, J. Peñuelas/S. Nogué), Inma Serra, Pau Fortuño, Josep Barba, Jordi Bosch, Henna Tyyskä, Eduard Caballol
+-   **Modelling support**: E. Spennati (Ph.D. student, M. Mencuccini), Clara Rodríguez, Laia Andreu-Hayles
 
 ### Participation in research projects
 
@@ -45,7 +45,7 @@ Activity conducted at EMF between *13/12/2024* and *19/06/2025*
 
 **Mentoring**:
 
--   Ph.D level (co-supervision R. Molowny): F. Andrade (CREAF), L. Braga (U. Tuscia)
+-   Ph.D level (co-supervision R. Molowny): F. Andrade (CREAF)
 -   Post-doc level: R. Balaguer-Romano (WildE project), M. Didion-Gency (MSCA)
 
 ### Software & model development
@@ -54,6 +54,7 @@ Activity conducted at EMF between *13/12/2024* and *19/06/2025*
 
 -   Revision and improvement of package `ecotraj` to include new data structures and allow cyclical trajectory analysis.
 -   Modification of package `medfateland` to allow parallel simulation of subwatersheds.
+-   Implementation in progress of a package to run the CENTURY 4.7 soil model from R.
 
 **Model parameter estimation**:
 
