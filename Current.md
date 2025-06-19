@@ -1,24 +1,22 @@
 # NEWSLETTER content for EMF
 
-Activity conducted at EMF between *15/06/2024* and *06/12/2024*
+Activity conducted at EMF between *13/12/2024* and *19/06/2025*
 
 ### Basic support activity
 
--   **Programming support**: E. Doblas, L. Stewart, M. Banque, O. Binks
--   **Data management support**: M. Banque
--   **Statistical support**: G. Bexultanova (Ph.D. student, M. Mencuccini), C. López (technician, A. Ribas), C. Azpiazu, S. Albacete.
--   **Modelling support**: M. Banque, J. Peñuelas
+-   **Programming support**: 
+-   **Data management support**: 
+-   **Statistical support**: G. Bexultanova (Ph.D. student, M. Mencuccini), J De la Casa (Ph.D. student, J. Peñuelas/S. Nogué).
+-   **Modelling support**: E. Spennati (Ph.D. student, M. Mencuccini)
 
 ### Participation in research projects
 
--   **WILDE** (EU - Researchers: J.M. Espelta, L. Brotons): Participation in a workshop on scenario definition and post-doc hiring to work on the Barcelona case study (<https://www.wilde-project.eu/>)
--   **RESONATE** (EU - Researchers: J. Martínez, F. Lloret, J.M. Espelta): Assisting in the use of MEDFATE for the evaluation of forest ecosystem services.
+-   **WILDE** (EU - Researchers: J.M. Espelta, L. Brotons): Mentoring post-doc hired for the project (R. Balaguer).
 -   **FORGENIUS** (EU - Researchers: M. Mencuccini): Collaboration with Nicolas Martin-StPaul on comparison and parameterization of models of plant hydraulics.
--   **BOMFORES** (Spain - IP: M. De Cáceres): Species parameter estimation and project finalisation.
--   **IMPROMED** (Spain - IPs: M. De Cáceres / J.M. Espelta): Improving process-based models in their capability to forecast responses to drought. Project Kick-off.
+-   **IMPROMED** (Spain - IPs: M. De Cáceres / J.M. Espelta): Improving process-based models in their capability to forecast responses to drought. Field work conducted during winter-spring 2025.
 -   **DRASTIC** (Spain - IP: M. Mencuccini): Tree water use and Drought responses: the roles of allometry, water storage and transport under climate change
 -   **C4N** (EU - IP: A. Broekman): Transfer knowledge and best practices, as well as harmonising policies, to tackle the challenges related to biodiversity protection and climate change.
--   **TOFU** (Catalunya - IP: J. Oliva (UdL)): Healthier forests for a sustainable future.
+-   **TOFU** (Catalunya - IP: J. Oliva (UdL)): Healthier forests for a sustainable future. Assisting the development of vulnerability models for the impact of pests and pathogens.
 -   **CARDIMED** (EU - CREAF coordinator: P. Andrés): Climate Adaptation and Resilience Demonstrated In the MEDiterranean region
 -   **RESFIRE** (Spain - IPs: L. Brotons, S. Fraixedas): Assessing the potential of REStoring ecological FIRe regimes as Nature-based Solution to extreme wildfires in Mediterranean ecosystems.
 -   **STOIKOS** (EU - IP: M. Fernández Martínez) Elemental ecology: towards an element-based functional ecology.
@@ -26,98 +24,80 @@ Activity conducted at EMF between *15/06/2024* and *06/12/2024*
 ### Participation in transfer projects
 
 -   **Contract with Centre de la Propietat Forestal** (A. Tovar, J. Vayreda, M. De Cáceres, R. Molowny): Evaluation of the effects of changes in silvicultural practices on carbon sequestration and forest function using modelling approaches.
--   **Contracte programa / Oficina Catalana de Canvi Climàtic** (M. De Cáceres, J. Vayreda, M. Banqué, R. Molowny): Assistance to M. Banqué in the generation of project report, interpreting the simulation results of management scenarios and climate scenarios.
+-   **Contracte programa / Oficina Catalana de Canvi Climàtic** (M. De Cáceres, J. Vayreda, M. Banqué, R. Molowny): Assistance to M. Banqué in the generation of project report and executive summary.
 -   **Grup de treball de Carboni al Sòl** (R. Molowny, several CREAF researchers and other 7 Research Centers in Catalonia): Soil carbon modelling for Catalonia (Generalitat).
--   **VULNEMAP** (M. Banqué, J. Vayreda, V. Granda): Modelling the vulnerability of Catalonian forest to drought events (Generalitat).
 
 ### Network building
 
--  M. De Cáceres participated in an international workshop on country-scale forest modelling (Potsdam; 2 days Sept. 2024), funded by PROCLIAS Cost Action.
+-  M. De Cáceres participated in an international workshop *Using tree trait diversity to forecast worldwide forest stability and resilience* organized by Raúl García-Valdes (Madrid; 3 days Dec. 2024) funded by *Instituto de Investigación en Cambio Global* (IICG-URJC).
 
--  M. De Cáceres visited INRAE-URFM Avignon (3 days, Aug 2024) to collaborate on species parameter estimation from plant trait databases (package `traits4models`).
+-  M. De Cáceres visited INRAE-URFM Avignon (5 days, March 2025) to collaborate on species parameter estimation from plant trait databases (package `traits4models`).
 
--  Software hackaton held in CREAF (2 days, Oct 2024), with researchers from U.Zaragoza and U.P. Valencia to progress in the coupling between `medfateland` and the hydrological model SERGHEI.
+-  M. De Cáceres participated in a workshop *Numerical Ecology through Space and Time* (Technopole Brest-Iroise, France, 13th-15th May 2025).
 
--  Meeting between EMF and two research groups from CTFC, with the aim to strengthen the collaboration in development of simulation and post-processing tools (e.g. estimation of ecosystem services).
-
+-  Co-organization of a international workshop (along with N. Martin-StPaul and I. Maréchaux) on *Using trait data for process-based model parameter estimation* (Avignon, 3 days March 2025) funded by French network *Psi-Hub*.
 
 ### Training & mentoring
 
 **Courses taught**:
 
--   Introduction to R: basics, tidyverse, ggplot2 and Quarto (V. Granda, R. Molowny and A. Tovar, Watering Talents, CREAF).
--   Process-based forest modelling using medfate and medfateland R packages (CAMBIUM group / Universidad de Valladolid, Campus de Soria)
+-   One-day course on *Ecological Trajectory Analysis* held on 13th May 2025 in Brest (France).
 
 **Mentoring**:
 
--   Ms.C. level: A. Sañé (Presented Sept. 2024)
--   Ph.D level: J. Dávila, J. De la Casa
--   Ph.D level (co-supervision R. Molowny): F. Andrade (CREAF)
--   Post-doc level: R. Balaguer-Romano, F. D'Adamo
+-   Ph.D level (co-supervision R. Molowny): F. Andrade (CREAF), L. Braga (U. Tuscia)
+-   Post-doc level: R. Balaguer-Romano (WildE project), M. Didion-Gency (MSCA)
 
 ### Software & model development
 
 **Design and implementation**:
 
--   Development of R package `forestables` (alpha version) for loading and harmonizing national forest inventory from several countries (Spain, France, USA). Currently available on EMF GitHub only. 
--   Profiling and code optimization for packages `medfate` and `medfateland`.
--   Development of R package `hydrospain` (submitted to CRAN).
+-   Revision and improvement of package `ecotraj` to include new data structures and allow cyclical trajectory analysis.
+-   Modification of package `medfateland` to allow parallel simulation of subwatersheds.
 
 **Model parameter estimation**:
 
--   Harmonization of additional plant trait data sources and development of plant species parameter datasets for Spain, France, US and Australia.
+-   Harmonization of additional plant trait data sources and refinement of plant species parameter datasets for Spain, France, US and Australia.
 
-**Model evaluation**
-
--   Evaluation of watershed-level runoff against river gauge data (section in `medfateland` website).
 
 ### New software & update releases
 
--   New version of package `meteospain` (v. 0.2.0) released on CRAN
--   New version of package `meteoland` (v.2.2.2) released on CRAN
--   New version of package `medfate` (v. 4.7.0) released on CRAN
--   New version of package `medfateland` (v. 2.4.7) released on CRAN
--   Update of the *Laboratori Forestal Català* web:
-    -   Maintenance of all apps to keep up to date library dependencies and web tools.
-    -   Update of map library from leaflet to mapdeck, not in production yet.
+-   New version of package `meteoland` (v.2.2.3) released on CRAN
+-   New version of package `medfate` (v. 4.8.1) released on CRAN
+-   New version of package `medfateland` (v. 2.6.0) released on CRAN
+-   New version of package `ecotraj` (v. 1.1.0) released on CRAN
+-   New version of package `vegclust` (v. 2.0.3) released on CRAN
+-   New version of package `indicspecies` (v. 1.8.0) released on CRAN
 
 ### EMF internal infraestructure improvements
 
--   Internal notification system (ntfy)
--   Public data transfer repository (https://data-emf.creaf.cat/public/)
--   Started migration of data pipelines for the LFC to a new system
+
 
 ### New datasets in the EMF catalog
 
 **External datasets**:
 
-  +   [*CARBOSOL*](https://doi.pangaea.de/10.1594/PANGAEA.884517): Physical and chemical properties of 6,609 soil profiles in Spain.
+  +   [*PlanetBiomass*](https://zenodo.org/records/8154445): Canopy height and biomass for Europe.
 
 ### Publications developing/using EMF tools
 
--   Balaguer-Romano R, De Cáceres M, Espelta JM Second-growth forests exhibit higher climate sensitivity in both drier and wetter years consistent with differences in root allocation. Ecosystems (in press).
-
--   Ameztegui A, Coll L, De Cáceres M, Morán-Ordóñez A (2024) Disturbance impacts on Mediterranean forests across climate and management scenarios. Journal of Environmental Management 371: 123193 (https://doi.org/10.1016/j.jenvman.2024.123193).
+-   de la Casa J, Nogué S, De Cáceres M, Pla-Rabés S, Sardans J, Benavente M, Giralt S, Hernandez A, Raposeiro PM, Peñuelas J (2025) Understanding two millenia ecosystem perturbations on the Azores archipelago
+through elementome trajectories. Ecological Indicators 176: 113630 (https://doi.org/10.1016/j.ecolind.2025.113630).
 
 ### Publications from other collaborations
 
--   Druel A, Ruffault J, Davi H, Chanzy A, Marloie O, De Cáceres M, Mouillot F, François C, Soudani, Martin-StPaul N (2024). Enhancing environmental models with a new downscaling method for global radiation in complex terrain. Biogeosciences. (https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1800/)
-
--   J.M. Espelta, M. Banqué, R. Molowny-Horas, M. de Cáceres (2024). Incendis, gestió i decaïment forestal a Catalunya: Quina ha estat la seva incidència recent (1986-2023)?. Catalunya Forestal 160, 2n trimestre 2024, 18-20 (https://www.forestal.cat/web/revista-i-publicacions/hemeroteca/?n=169)
 
 ### Communication
 
--   Oral presentation at *Jornades PATT*: **Aplicatius informàtics de suport a la gestió. Laboratori Forestal Català** (Víctor Granda)
--   Participation in *V Jornada de la funció de les dades: La funció de les dades en el canvi climàtic*, organized by the *Associació d'Intel·ligència Artificial*, *Societat Catalana de Matemàtiques* and *Societat Catalana d'Estadística* (Víctor Granda)
--   Oral presentation given at *IUFRO XXVI World Congress. Stockholm* (Sweden) 23-29 June 2024: **MEDFATE 3.0.0: A trait-enabled model to simulate Mediterranean forest function and dynamics at regional scales** (Miquel De Cáceres)
--   Oral presentation given at  *I Jornadas de Ecoinformática AEET* (Alcalá de Henares, Madrid)  24-25 October 2024: **forestables: un enfoque estructurado para la armonización de Datos de Inventarios Forestales Nacionales** (Adriana Tovar)
--   Creation of a new profile on the BlueSky platform:  https://bsky.app/profile/ecosystemmodelf.bsky.social 
+-   Oral presentation given at *6th Xylem International Meeting (XIM6)* (Sevilla, Spain) 18-20th March 2025: *Comparing visions of plant hydraulic responses to drought : a multiple sites evaluation of Sperry-type and Sureau-type models* (Miquel De Cáceres)
+-   Oral presentation given at *III SIBECOL & XVII AEET Meeting* (Pontevedra, Spain) 2-7th June 2025: *A modular framework for process-based simulations of forest function and dynamics at stand to regional scales* (Miquel De Cáceres)
+-   Poster presented at *9º Congreso Forestal Español* (Gijon, Spain) 16-20th June 2025: *forestables: un enfoque estructurado para la armonización de Datos de Inventarios Forestales Nacionales* (Adriana Tovar-Rodríguez)
 
-### EMF Online impact 15/06/2024 - 06/12/2024
+### EMF Online impact 13/12/2024 - 19/06/2025
 
 -   Laboratori Forestal Català (LFC):
-    -   *Stats*: 653 visits / 6:06 mins average visit duration / 2166 page views
-    -   *Apps most used*: Allometrapp (341 times) / IFN App (229 times) / DeBosCat App (187 times)
+    -   *Stats*: XX visits / XX mins average visit duration / 2166 page views
+    -   *Apps most used*: Allometrapp (XX times) / IFN App (XX times) / DeBosCat App (XX times)
 -   EMF Web:
-    -   *Stats*: 1303 visits / 3:58 mins average visit duration / 4194 page views
-    -   *Pages most visited*: External models (536 visits) / Training (493 visits) / External data (476 visits)
+    -   *Stats*: XX visits / XX mins average visit duration / XX page views
+    -   *Pages most visited*: External models (XX visits) / Training (XX visits) / External data (XX visits)
