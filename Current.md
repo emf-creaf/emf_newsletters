@@ -4,10 +4,11 @@ Activity conducted at EMF between *13/12/2024* and *19/06/2025*
 
 ### Basic support activity
 
--   **Programming support**: Laia Andreu-Hayles
+-   **Programming support**: L. Andreu-Hayles, L. Stewart, M. Riba, S. Saura, L. Olivé
 -   **Data management support**: 
 -   **Statistical support**: G. Bexultanova (Ph.D. student, M. Mencuccini), J De la Casa (Ph.D. student, J. Peñuelas/S. Nogué), Inma Serra, Pau Fortuño, Josep Barba, Jordi Bosch, Henna Tyyskä, Eduard Caballol
 -   **Modelling support**: E. Spennati (Ph.D. student, M. Mencuccini), Clara Rodríguez, Laia Andreu-Hayles
+-   **EMF Data and apps support**: T. Canals (Servei de Canvi Climàtic i Atmosfera, Govern Illes Balears), E. Busquets (CTFC)
 
 ### Participation in research projects
 
@@ -55,6 +56,7 @@ Activity conducted at EMF between *13/12/2024* and *19/06/2025*
 -   Revision and improvement of package `ecotraj` to include new data structures and allow cyclical trajectory analysis.
 -   Modification of package `medfateland` to allow parallel simulation of subwatersheds.
 -   Implementation in progress of a package to run the CENTURY 4.7 soil model from R.
+-   Implementation of new data sources (IFN4) in package `forestables`
 
 **Model parameter estimation**:
 
@@ -69,16 +71,28 @@ Activity conducted at EMF between *13/12/2024* and *19/06/2025*
 -   New version of package `ecotraj` (v. 1.1.0) released on CRAN
 -   New version of package `vegclust` (v. 2.0.3) released on CRAN
 -   New version of package `indicspecies` (v. 1.8.0) released on CRAN
+-   New alpha version of package `forestables` available on GitHub (https://github.com/emf-creaf/forestables)
+-   Update of the *Laboratori Forestal Català* (LFC) apps:
+    -   Maintenance of all apps to keep up to date library dependencies and web tools
+    -   Migration to new map library (mapdeck) completed, 3D maps are now available
+    -   Fixed AllometrApp errors in the database
+    -   New apps design and look
 
-### EMF internal infraestructure improvements
+### EMF internal infraestructure maintenance
 
-
+-   New S3 object storage for LFC apps using the CSUC S3 service
+-   New data pipeline for daily meteorological data interpolation, now covering all Spain (except for Canary Islands) at 500 m^2 resolution. Data available at [https://data-emf.creaf.cat/public/gpkg/daily_interpolated_meteo/](https://data-emf.creaf.cat/public/gpkg/daily_interpolated_meteo/)
+-   Improved app user statistics
 
 ### New datasets in the EMF catalog
 
 **External datasets**:
 
   +   [*PlanetBiomass*](https://zenodo.org/records/8154445): Canopy height and biomass for Europe.
+
+**EMF datasets**:
+
+  +   [Meteorological data interpolated for all Spain (500 m^2)](https://data-emf.creaf.cat/public/gpkg/daily_interpolated_meteo/)
 
 ### Publications developing/using EMF tools
 
@@ -97,8 +111,8 @@ through elementome trajectories. Ecological Indicators 176: 113630 (https://doi.
 ### EMF Online impact 13/12/2024 - 19/06/2025
 
 -   Laboratori Forestal Català (LFC):
-    -   *Stats*: XX visits / XX mins average visit duration / 2166 page views
-    -   *Apps most used*: Allometrapp (XX times) / IFN App (XX times) / DeBosCat App (XX times)
+    -   *Stats*: 914 visits (411 returning) / 6:45 mins average visit duration / 1280 page views
+    -   *Apps most used*: IFN App (292 times) / Allometrapp (195 times) / DeBosCat App (130 times)
 -   EMF Web:
-    -   *Stats*: XX visits / XX mins average visit duration / XX page views
-    -   *Pages most visited*: External models (XX visits) / Training (XX visits) / External data (XX visits)
+    -   *Stats*: 1538 visits (373 returning) / 3:25 mins average visit duration / 4410 page views
+    -   *Pages most visited*: External data (921 page views) / External models (642 visits) / Training (363 visits)
