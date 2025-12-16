@@ -4,9 +4,9 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 
 ### Basic support activity
 
--   **Programming support**: 
+-   **Programming support**: Laia Andreu-Hayles, Guillem Lloberas, Clara Rodríguez (Naturalis)
 -   **Data management support**: 
--   **Statistical support**: J De la Casa (Ph.D. student, J. Peñuelas/S. Nogué), 
+-   **Statistical support**: J De la Casa (Ph.D. student, J. Peñuelas/S. Nogué), Alejandro Garcia, Anaïs Juliet, Jordi Sardans, Eirini Trypidaki 
 -   **Modelling support**: E. Spennati (Ph.D. student, M. Mencuccini), M. Didion-Gency (MSCA, Ecophys)
 -   **EMF Data and apps support**: Ántar Benet
 
@@ -20,6 +20,7 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 -   **CARDIMED** (EU - CREAF coordinator: P. Andrés): Climate Adaptation and Resilience Demonstrated In the MEDiterranean region
 -   **RESFIRE** (Spain - IPs: L. Brotons, S. Fraixedas): Assessing the potential of REStoring ecological FIRe regimes as Nature-based Solution to extreme wildfires in Mediterranean ecosystems.
 -   **STOIKOS** (EU - IP: M. Fernández Martínez) Elemental ecology: towards an element-based functional ecology.
+-   **BLAUCAT** (Catalunya - IP CREAF: Annelies Broekman): Estat actual i pla d’acció del carboni blau a Catalunya.
 
 ### Participation in transfer projects
 
@@ -39,7 +40,7 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 
 -   Ph.D level (co-supervision J.M. Espelta): A. Tovar
 -   Ph.D level (co-supervision R. Molowny): F. Andrade (CREAF)
--   Post-doc level: R. Balaguer-Romano (WildE project)
+-   Post-doc level: R. Balaguer-Romano (WildE and IMPROMED projects)
 
 ### Software & model development
 
@@ -48,6 +49,7 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 -   Modification of package `medfate` to improve the representation of seedlings and herbs.
 -   Implementation of package `Rcentury` to run the CENTURY 4.7 soil model from R.
 -   Design and implementation of a new package `forestindicators`, devoted to the estimation of forest metrics and ecosystem services.
+-   Design and implementation of dead wood decomposition models (data pre-processing and feasibility evaluation).
 
 **Model parameter estimation**:
 
@@ -88,6 +90,8 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 - Galloso P, Legendre P, Correa GC, De Cáceres M (2025) Long-term dynamics of the northern Humboldt Current System pelagic fish community: a look into community shifts. Marine Ecology 46: e70048 (https://doi.org/10.1111/maec.70048).
 
 - Roces-Díaz JV, García-Valdés R, De Cáceres M, Descals A,  Hurtado P, Lloret F, Espelta JM, Álvarez-Martínez JM, Batllori E, Martínez-Vilalta J (2025) Water availability, stand structure, and hydraulic trait diversity drive forest stability. Forest Ecology and Management 594: 122946 (https://doi.org/10.1016/j.foreco.2025.122946).
+
+- Molowny-Horas R, Harati-Asl S, Perez L (2025) Understanding forest insect outbreak dynamics: a comparative analysis of machine learning techniques. Geo-spatial Information Science 1-18
 
 ### Communication
 
