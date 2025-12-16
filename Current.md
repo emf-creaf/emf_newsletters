@@ -34,8 +34,6 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 
 ### Training & mentoring
 
-**Courses taught**:
-
 **Mentoring**:
 
 -   Ph.D level (co-supervision J.M. Espelta): A. Tovar
@@ -51,21 +49,20 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 -   Design and implementation of a new package `forestindicators`, devoted to the estimation of forest metrics and ecosystem services.
 -   Design and implementation of dead wood decomposition models (data pre-processing and feasibility evaluation).
 
-**Model parameter estimation**:
-
--   
-
 ### New software & update releases
 
 -   New version of package `meteoland` (v.2.2.5) released on CRAN
 -   New version of package `medfate` (v. 4.8.4) released on CRAN
 -   New version of package `medfateland` (v. 2.8.1) released on CRAN
 -   New version of package `ecotraj` (v. 1.2.0) released on CRAN
+-   New version of package `meteospain` (v. 0.3.0) released on CRAN
+-   New beta version of package `forestables` available on GitHub (https://github.com/emf-creaf/forestables)
 -   Update of the *Laboratori Forestal Català* (LFC) apps:
+    -   Maintenance of all apps to keep up to date library dependencies and web tools
 
 ### EMF internal infraestructure maintenance
 
--   
+-   New data pipeline for daily modelled forest water balance data, now covering all Spain (except for Canary Islands) at 500 m^2 resolution. Data available at [https://data-emf.creaf.cat/public/gpkg/daily_modelled_forests/](https://data-emf.creaf.cat/public/gpkg/daily_modelled_forests/)
 
 ### New datasets in the EMF catalog
 
@@ -96,12 +93,19 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 ### Communication
 
 -   Presentation of the results of project FORESFUTURE (OCCC-CREAF-CTFC): Districte administratiu, Barcelona, 30/10/2025.
+-   Articles on traditional media:
+    -    https://www.elperiodico.com/es/sociedad/20251206/inteligencia-artificial-revoluciona-prevencion-incendios-forestales-analisis-124062840
+    -    https://www.elperiodico.com/es/sociedad/drones-conectados-satelites-prevencion-incendios-forestales-123989546-rm/index.html
 
 ### EMF Online impact 20/06/2025 - 15/12/2025
 
--   Laboratori Forestal Català (LFC):
-    -   *Stats*: XX visits (XX returning) / XX mins average visit duration / 1280 page views
-    -   *Apps most used*: IFN App (XX times) / Allometrapp (XX times) / DeBosCat App (XX times)
 -   EMF Web:
-    -   *Stats*: XX visits (XX returning) / XX mins average visit duration / XX page views
-    -   *Pages most visited*: External data (XX page views) / External models (XX visits) / Training (XX visits)
+    -   *Stats*: 1604 visits (366 returning) / 3:17 mins average visit duration / 4203 page views
+    -   *Pages most visited*: External data (1082 page views) / External models (460 visits) / Software 286 visits)
+-   Laboratori Forestal:
+    - **AllometrApp**: 446 visits (317 returning) / 8:14 mins average
+    - **NFI App**: 306 visits (139 returning) / 6:19 mins average
+    - **DEBOSCAT App**: 202 visits (116 returning) / 4:56 mins average
+    - **CatDroughtApp**: 132 visits (88 returning) / 7:19 mins average
+    - **LiDAR App**: 99 visits (27 returning) / 4:30 mins average
+    - **FES App**: 75 visits (19 returning) / 3:02 mins average
