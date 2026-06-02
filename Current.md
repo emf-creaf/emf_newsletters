@@ -1,14 +1,14 @@
 # NEWSLETTER content for EMF
 
-Activity conducted at EMF between *20/06/2025* and *15/12/2025*
+Activity conducted at EMF between *16/12/2025* and *15/06/2026*
 
 ### Basic support activity
 
--   **Programming support**: Laia Andreu-Hayles, Guillem Lloberas, Clara Rodríguez (Naturalis)
+-   **Programming support**: 
 -   **Data management support**: 
--   **Statistical support**: J De la Casa (Ph.D. student, J. Peñuelas/S. Nogué), Alejandro Garcia, Anaïs Juliet, Jordi Sardans, Eirini Trypidaki 
--   **Modelling support**: E. Spennati (Ph.D. student, M. Mencuccini), M. Didion-Gency (MSCA, Ecophys)
--   **EMF Data and apps support**: Ántar Benet
+-   **Statistical support**:  
+-   **Modelling support**: M. Didion-Gency (MSCA, Ecophys)
+-   **EMF Data and apps support**:
 
 ### Participation in research projects
 
@@ -25,50 +25,51 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 ### Participation in transfer projects
 
 -   **Contract with Centre de la Propietat Forestal** (A. Tovar, J. Vayreda, M. De Cáceres, R. Molowny): Evaluation of the effects of changes in silvicultural practices on carbon sequestration and forest function using modelling approaches.
--   **Contracte programa / Oficina Catalana de Canvi Climàtic** (M. De Cáceres, J. Vayreda, M. Banqué, R. Molowny): Presentation of project results.
 -   **Grup de treball de Carboni al Sòl** (R. Molowny, Inés Delsman, several CREAF researchers and other 7 Research Centers in Catalonia): Soil carbon modelling for Catalonia (Generalitat).
 
 ### Network building
 
--  M. De Cáceres participated in an international workshop **Implementing robust regeneration modules in forest models** organized by Xavier Morin & Isabelle Maréchaux (Montpellier; 17-19 Nov. 2025).
+-  M. De Cáceres participated in an international workshop related to project **DIV4DROUGHT**, lead by Joannès Guillemot & Charlotte Grossiord (Montpellier; 13-17 Apr. 2026).
 
 ### Training & mentoring
+
+**Courses taught**:
+
+-   Introduction to Ecological Trajectory Analysis (ETA) (M. De Caceres & Javi de la Casa, 8h, Watering Talents/CREAF).
 
 **Mentoring**:
 
 -   Ph.D level (co-supervision J.M. Espelta): A. Tovar
 -   Ph.D level (co-supervision R. Molowny): F. Andrade (CREAF)
--   Post-doc level: R. Balaguer-Romano (WildE and IMPROMED projects)
+-   Post-doc level: R. Balaguer-Romano (WildE and IMPROMED projects), Susana Silvestre (JdC fellow)
 
 ### Software & model development
 
 **Design and implementation**:
 
--   Modification of package `medfate` to improve the representation of seedlings and herbs.
--   Implementation of package `Rcentury` to run the CENTURY 4.7 soil model from R.
--   Design and implementation of a new package `forestindicators`, devoted to the estimation of forest metrics and ecosystem services.
--   Design and implementation of dead wood decomposition models (data pre-processing and feasibility evaluation).
+-   Internal restructuration to avoid Rcpp structures in package `medfate` (v. 5.0.0) leading to substantial decrease in computation time.
+
+**Model verification/evaluation**:
+
+-   [Verification exercise](https://emf-creaf.github.io/medfate/articles/evaluation/CENTURYVerification.html) comparing the implementation of DAYCENT in package `medfate` (v. 5.0.0) with the original CENTURY model (v. 4.7).
 
 ### New software & update releases
 
--   New version of package `meteoland` (v.2.2.5) released on CRAN
--   New version of package `medfate` (v. 4.8.4) released on CRAN
--   New version of package `medfateland` (v. 2.8.1) released on CRAN
--   New version of package `ecotraj` (v. 1.2.0) released on CRAN
--   New version of package `meteospain` (v. 0.3.0) released on CRAN
--   New beta version of package `forestables` available on GitHub (https://github.com/emf-creaf/forestables)
+-   New version of package `meteoland` (v.2.2.7) released on CRAN
+-   New version of package `medfate` (v. 5.0.0) released on CRAN
+-   New version of package `medfateland` (v. 3.0.0) released on CRAN
+-   New version of package `meteospain` (v. 0.3.1) released on CRAN
 -   Update of the *Laboratori Forestal Català* (LFC) apps:
     -   Maintenance of all apps to keep up to date library dependencies and web tools
 
 ### EMF internal infraestructure maintenance
 
--   New data pipeline for daily modelled forest water balance data, now covering all Spain (except for Canary Islands) at 500 m^2 resolution. Data available at [https://data-emf.creaf.cat/public/gpkg/daily_modelled_forests/](https://data-emf.creaf.cat/public/gpkg/daily_modelled_forests/)
 
 ### New datasets in the EMF catalog
 
 **External datasets**:
 
-  +   [*SeedArc*](https://www.unioviedo.es/seedarc/index.html): A Global Archive of Primary Seed Germination data: contains 47,000 germination records from 4500 species.
+  +   [*GWDD2*](https://zenodo.org/records/18262736): The Global Wood Density Database v.2 (GWDD v.2) is a collection of 109,626 taxonomically standardized wood density records and 15,093 additional bark density records.
 
 **EMF datasets**:
 
@@ -77,35 +78,39 @@ Activity conducted at EMF between *20/06/2025* and *15/12/2025*
 
 ### Publications developing/using EMF tools
 
-- Balaguer-Romano R, Espelta, JM, Brotons L, Aquilué N, De Cáceres M (2025) Wildfire connectivity under drought-induced impacts and landscape management strategies in a Mediterranean region. Journal of Environmental Management 395: 127844 
-(https://doi.org/10.1016/j.jenvman.2025.127844).
+- Balaguer-Romano R, Sañé A, Martin-StPaul N, Ruffault J, Gabriel E, Castro FX, Pimont F, Liu X, Druel A, Delzon S, De Cáceres M (2026) Key sources of uncertainty in process-based modeling of live fuel moisture content. New Phytologist (https://doi.org/10.1111/nph.71286).
+
+- Spennati E, Mencuccini M, De Cáceres M, Vitale M (2026) Disentanging morphological and environmental drivers of hydraulic dysfunction in tree saplings: a modelling approach. Forest Ecology and Management 615: 123838 (https://doi.org/10.1016/j.foreco.2026.123838).
+
+- D’Adamo F, De Cáceres M, Espelta JM, Roces-Díaz JV, Descals A, Lloret F, Martínez-Vilalta J (2026) Assessing ecosystem services resilience to drought and its drivers in Mediterranean forests using a conterfactual, process-based modelling approach.  Ecosystem Services 79: 101858 (https://doi.org/10.1016/j.ecoser.2026.101858).
+
+- Collado E, De Cáceres M, de-Dios-García J, Rubio-Gutiérrez R, Roženbergar D, Piqué M (2026) Forest management and drought interaction on tree growth in black pine forest across the Mediterranean Basin. Dendrochronologia 96: 126497 (https://doi.org/10.1016/j.dendro.2026.126497).
+
+- Sánchez-Dávila J, De Cáceres M, Vayreda J, Retana J (2026). Recent water cycle changes in Spanish forests are driven by stand structure more than climatic changes. Journal of Environmental Management 402: 129070 (https://doi.org/10.1016/j.jenvman.2026.129070).
+
+- Jia Q, Quan X, Resco de Dios V, Yebra M, He B, Li X, Liao Z, Balaguer-Romano R, De Cáceres M (2026) Enhancing two-week live fuel moisture content forecasts through biophysical modelling and remote sensing data assimilation. Remote Sensing of Environment 335: 115267 (https://doi.org/10.1016/j.rse.2026.115267).
+
+- Veuillen L,  Simioni G, De Cáceres M, Badel E, Carrière SD, Cochard H, Courbet F, Doussan C, Druel A, Ladier J, Prevosto B, Raynal K, MartinSt-Paul N (2026) Thinning does not improve growth resistance to drought, but reduces hydraulic failure risk of Atlas cedar trees on the long term despite vegetation regrowth. Agricultural and Forest Meteorology 378: 111019 (https://doi.org/10.1016/j.agrformet.2026.111019).
 
 ### Publications from other collaborations
 
-- Espelta JM, Viana-Soto A, Molowny-Horas R, De Cáceres M, Selwyn M, Banqué M, Brotons L, Lloret F, Martínez-Vilalta J, Piqué M, Senf C (accepted). Long-term comparison shows protected and non-protected forests differ in harvesting, but not in wildfires or drought-driven dieback. Journal of Applied Ecology.
+- Grünig M, Rammer W, Baumann M, Albrich K, André F, Augustynczik ADL, Bohn FJ, Bouwman M, Bugmann H, Collalti A, Cristal I, Dalmonech D, De Caceres M, De Coligny D, Dobor L, Dollinger C, Forrester DI, Garcia-Gonzalo J, González-Olabarria JR, Hiltner U, Hlásny T, Honkaniemi J, Huber N, Huth A, Jonard M, Jönsson AM, Lagergren F, Mina M, Mohren F, Moos C, Morin X, Muys B, Nieberg M, Peltoniemi M, Reyer  CPO, Storms I, Thom D, Toïgo M, Seidl R (2026) Loss of competitive strength in European conifer species under climate change. Communications Earth & Environment 7: 401 (https://doi.org/10.1038/s43247-026-03582-0).
 
-- Galloso P, Legendre P, Correa GC, De Cáceres M (2025) Long-term dynamics of the northern Humboldt Current System pelagic fish community: a look into community shifts. Marine Ecology 46: e70048 (https://doi.org/10.1111/maec.70048).
-
-- Roces-Díaz JV, García-Valdés R, De Cáceres M, Descals A,  Hurtado P, Lloret F, Espelta JM, Álvarez-Martínez JM, Batllori E, Martínez-Vilalta J (2025) Water availability, stand structure, and hydraulic trait diversity drive forest stability. Forest Ecology and Management 594: 122946 (https://doi.org/10.1016/j.foreco.2025.122946).
-
-- Molowny-Horas R, Harati-Asl S, Perez L (2025) Understanding forest insect outbreak dynamics: a comparative analysis of machine learning techniques. Geo-spatial Information Science 1-18
+- Alvarez A, Lecina-Díaz J, De Cáceres M, Vayreda J, Retana J (2026) Effects of fuel types and fire severity on atmospheric pollutant emissions in an extreme wind-driven wildfire. Journal of Forestry Research 37: 86 (https://doi.org/10.1007/s11676-026-01988-2).
 
 ### Communication
 
--   Presentation of the results of project FORESFUTURE (OCCC-CREAF-CTFC): Districte administratiu, Barcelona, 30/10/2025.
 -   Articles on traditional media:
-    -    https://www.elperiodico.com/es/sociedad/20251206/inteligencia-artificial-revoluciona-prevencion-incendios-forestales-analisis-124062840
-    -    https://www.elperiodico.com/es/sociedad/drones-conectados-satelites-prevencion-incendios-forestales-123989546-rm/index.html
 
-### EMF Online impact 20/06/2025 - 15/12/2025
+### EMF Online impact 16/12/2025 - 15/06/2025
 
 -   EMF Web:
-    -   *Stats*: 1604 visits (366 returning) / 3:17 mins average visit duration / 4203 page views
-    -   *Pages most visited*: External data (1082 page views) / External models (460 visits) / Software 286 visits)
+    -   *Stats*: XX visits (XX returning) / XX mins average visit duration / XX page views
+    -   *Pages most visited*: External data (XX page views) / External models (XX visits) / Software XX visits)
 -   Laboratori Forestal:
-    - **AllometrApp**: 446 visits (317 returning) / 8:14 mins average
-    - **NFI App**: 306 visits (139 returning) / 6:19 mins average
-    - **DEBOSCAT App**: 202 visits (116 returning) / 4:56 mins average
-    - **CatDroughtApp**: 132 visits (88 returning) / 7:19 mins average
-    - **LiDAR App**: 99 visits (27 returning) / 4:30 mins average
-    - **FES App**: 75 visits (19 returning) / 3:02 mins average
+    - **AllometrApp**: XX visits (XX returning) / XX mins average
+    - **NFI App**: XX visits (XX returning) / XX mins average
+    - **DEBOSCAT App**: XX visits (XX returning) / XX mins average
+    - **ForestDroughtApp**: XX visits (XX returning) / XX mins average
+    - **LiDAR App**: XX visits (XX returning) / XX mins average
+    - **FES App**: XX visits (XX returning) / XX mins average
