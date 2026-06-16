@@ -71,10 +71,10 @@ Activity conducted at EMF between *16/12/2025* and *15/06/2026*
 
   +   [*GWDD2*](https://zenodo.org/records/18262736): The Global Wood Density Database v.2 (GWDD v.2) is a collection of 109,626 taxonomically standardized wood density records and 15,093 additional bark density records.
 
-**EMF datasets**:
+**CREAF datasets**:
 
-  +   [Meteorological data interpolated for all Spain (500 $m^2$)](https://data-emf.creaf.cat/public/gpkg/daily_interpolated_meteo/)
-  +   [Forest water balance, drought stress and wildfire danger metrics for all Spain (500 $m^2$)](https://data-emf.creaf.cat/public/gpkg/daily_modelled_forests/)
+  +   [*KPLANT*](https://doi.org/10.5281/zenodo.19816125): The KPLANT database is a global compilation of whole-plant hydraulic conductance (kplant) measurements, providing harmonised data on plant water transport capacity along the soil-plant-atmosphere continuum.
+
 
 ### Publications developing/using EMF tools
 
