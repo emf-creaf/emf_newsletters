@@ -92,6 +92,10 @@ Activity conducted at EMF between *16/12/2025* and *15/06/2026*
 
 - Veuillen L,  Simioni G, De Cáceres M, Badel E, Carrière SD, Cochard H, Courbet F, Doussan C, Druel A, Ladier J, Prevosto B, Raynal K, MartinSt-Paul N (2026) Thinning does not improve growth resistance to drought, but reduces hydraulic failure risk of Atlas cedar trees on the long term despite vegetation regrowth. Agricultural and Forest Meteorology 378: 111019 (https://doi.org/10.1016/j.agrformet.2026.111019).
 
+- Djeghri N, Sturbois A, Hélaouët P, Geissmann Q, Rimmelin-Maury P, Boyé A, Gauthier O, De Cáceres M (2026) Going round in cycles but going somewhere: Deciphering cyclical dynamics using Ecological Trajectory Analysis. Ecological Monographs 96: e70058 (https://doi.org/10.1002/ecm.70058).
+
+- Djeghri N, Gauthier O, Sturbois A, Meiners SJ, Allen R, De Cáceres M (2026) Uncovering the relative movements of ecological trajectories. Peer Community Journal 6: e54 (https://doi.org/10.24072/pcjournal.736).
+
 ### Publications from other collaborations
 
 - Grünig M, Rammer W, Baumann M, Albrich K, André F, Augustynczik ADL, Bohn FJ, Bouwman M, Bugmann H, Collalti A, Cristal I, Dalmonech D, De Caceres M, De Coligny D, Dobor L, Dollinger C, Forrester DI, Garcia-Gonzalo J, González-Olabarria JR, Hiltner U, Hlásny T, Honkaniemi J, Huber N, Huth A, Jonard M, Jönsson AM, Lagergren F, Mina M, Mohren F, Moos C, Morin X, Muys B, Nieberg M, Peltoniemi M, Reyer  CPO, Storms I, Thom D, Toïgo M, Seidl R (2026) Loss of competitive strength in European conifer species under climate change. Communications Earth & Environment 7: 401 (https://doi.org/10.1038/s43247-026-03582-0).
